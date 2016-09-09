@@ -1,0 +1,12 @@
+body{
+  margin:0;
+  padding:0;
+  /*background-color:#0288D1;*/
+  display: flex;
+  /*background-image: url(./images/1.jpg);
+  -webkit-background-size: 100% 100%;
+  background-size: 100% 100%;*/
+}
+#app{
+  box-shadow:2px 2px red;
+}
